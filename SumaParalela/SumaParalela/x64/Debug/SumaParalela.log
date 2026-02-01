@@ -1,0 +1,6 @@
+﻿  SumaParalela.cpp
+C:\Users\nxa19558\source\repos\SumaParalela\SumaParalela.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nxa19558\source\repos\SumaParalela\SumaParalela.cpp(37,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nxa19558\source\repos\SumaParalela\SumaParalela.cpp(38,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nxa19558\source\repos\SumaParalela\SumaParalela.cpp(50,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SumaParalela.vcxproj -> C:\Users\nxa19558\source\repos\SumaParalela\x64\Debug\SumaParalela.exe
